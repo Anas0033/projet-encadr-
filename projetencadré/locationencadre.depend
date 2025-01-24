@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1737346395 source:c:\users\belai\desktop\examen fichier\locationencadre\carss.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cars.h"
+
+1737346395 c:\users\belai\desktop\examen fichier\locationencadre\cars.h
+
+1737346395 source:c:\users\belai\desktop\examen fichier\locationencadre\main.c
+	<stdio.h>
+	"cars.h"
+
